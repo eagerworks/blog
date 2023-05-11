@@ -1,4 +1,4 @@
-# Blog-Post-Codebase
+# Blog Codebase
 
 Welcome to our Blog codebase repository! This is where we house the source code for all the projects, tutorials, and examples featured in our blog.
 
