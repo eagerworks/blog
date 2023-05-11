@@ -1,0 +1,17 @@
+{
+  "name": "My Hotel",
+  "address": "123 My Street",
+  "rooms": [
+    {
+      "number": 1,
+      "area": 16,
+      "capacity": 2
+    },
+    {
+      "number": 2,
+      "area": 24,
+      "capacity": 3
+    }
+  ],
+  "country": "Uruguay"
+}

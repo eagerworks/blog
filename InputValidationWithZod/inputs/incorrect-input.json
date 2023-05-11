@@ -1,0 +1,15 @@
+{
+  "address": 10,
+  "rooms": [
+    {
+      "number": 1,
+      "area": 16,
+      "capacity": 2
+    },
+    {
+      "number": 2,
+      "area": 24
+    }
+  ],
+  "country": "Uruguay"
+}
